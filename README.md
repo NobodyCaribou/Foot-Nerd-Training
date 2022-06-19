@@ -1,12 +1,7 @@
 # Health-Protocol-v23.0
-Created by Foot Nerds [v23.0]
 
-2023 Foot Nerd Experience
+Foot Nerd Training
 
-Simplify
+Refocusing on the foundation
 
-Shorten
-
-Trim
-
-Incorporate feedback
+12 weeks to restore your feet and learn how to help others do the same
