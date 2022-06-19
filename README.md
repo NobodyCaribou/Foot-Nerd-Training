@@ -1,6 +1,4 @@
-# Health-Protocol-v23.0
-
-Foot Nerd Training
+# Foot-Nerd-Training
 
 Refocusing on the foundation
 
