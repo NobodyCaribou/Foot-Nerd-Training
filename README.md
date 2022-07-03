@@ -1,6 +1,6 @@
 # Foot-Nerd-Training
 
-12 weeks of training to restore your feet and learn how to help others
+12 weeks of training to restore your feet and become a health leader in your community
 
 [Orientation](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/Orientation)
 
