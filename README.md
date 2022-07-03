@@ -9,4 +9,4 @@ $1,600 usd (includes physical toolkit - Solemate, wild toes, cork ball, hacky)
 Domain: FootNerdTraining.com
 Podcast: Foot Nerd Training (30 min each)
 
-[link](www.thefootcollective.store)
+[orientation](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/Orientation)
