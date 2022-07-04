@@ -18,9 +18,9 @@
 
 [Week 7]
 
-[Week 8/9]
+[Week 8/9/10]
 
-[Week 10/11]
+[Week 11]
 
 [Week 12 - debrief]
 
