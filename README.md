@@ -18,10 +18,16 @@
 
 [Week 7]
 
-[Week 8/9/10]
+[Week 8]
+
+[Week 9]
+
+[Week 10]
 
 [Week 11]
 
 [Week 12 - debrief]
 
-[Foot Nerd resource library](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/Nerd%20Library%20(resources))
+[Library](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/Nerd%20Library%20(resources)
+
+[Experiments](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/02%20-%20Experiments)
