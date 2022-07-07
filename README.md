@@ -31,3 +31,5 @@
 [Library](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/01%20-%20Library)
 
 [Experiments](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/02%20-%20Experiments)
+
+[Dialogue covenant](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/03%20-%20Dialogue%20covenant)
