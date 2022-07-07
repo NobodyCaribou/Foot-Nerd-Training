@@ -28,6 +28,6 @@
 
 [Week 12 - debrief]
 
-[Library](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/Nerd%20Library%20(resources)
+[Library](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/Nerd%20Library%20(resources))
 
 [Experiments](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/02%20-%20Experiments)
