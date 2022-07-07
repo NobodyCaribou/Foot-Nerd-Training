@@ -26,7 +26,7 @@
 
 [Week 11]
 
-[Week 12 - debrief]
+[Week 12]
 
 [Library](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/01%20-%20Library)
 
