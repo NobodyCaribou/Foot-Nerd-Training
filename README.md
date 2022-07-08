@@ -8,9 +8,9 @@
 
 [Week 2](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/week%202)
 
-[Week 3]
+[Week 3](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/week%203)
 
-[Week 4]
+[Week 4](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/week%204)
 
 [Week 5]
 
