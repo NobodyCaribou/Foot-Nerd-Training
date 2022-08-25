@@ -20,7 +20,7 @@
 
 [Week 8](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/week%208)
 
-[Week 9]
+[Week 9](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/week%209)
 
 [Week 10]
 
