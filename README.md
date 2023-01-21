@@ -2,7 +2,7 @@
 
 12 weeks of training to restore your feet and become a health leader in your community
 
-[Orientation](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/Orientation)
+[Orientation](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/Orientation%20(FEB%20'23%20group)
 
 [Week 1](https://github.com/NobodyCaribou/Foot-Nerd-Training/blob/main/week%201)
 
